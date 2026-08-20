@@ -128,7 +128,7 @@ SentinelFlow
 │   ├── architecture.png
 │   │
 │   └── workflow-documentation/
-│       ├──04_Workflow_Documentation.md
+│       ├──ThreatForge Workflow Documentation
 │
 ├── screenshots/
 │   ├── agent 1.png
@@ -162,10 +162,6 @@ Installation
 
 git clone https://github.com/aaravsahni0104-wq/sentinelflow.git
 cd sentinelflow
-
-Import the six exported n8n workflow JSON files into n8n and configure
-the required credentials.
-
 
 Project Information
 
